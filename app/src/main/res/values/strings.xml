@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidassessmentABNAMROKOTLIN</string>
+    <string name="visibility">Visibility</string>
+    <string name="name">Name</string>
+    <string name="private_or_public">Private_or_public</string>
+    <string name="full_name">Full name</string>
+    <string name="description">Description</string>
+    <string name="cta_button">Go to repository</string>
+    <string name="anb_amro_repository">ABN-AMRO repository</string>
+</resources>
